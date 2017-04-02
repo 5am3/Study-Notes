@@ -8,6 +8,7 @@
 [进阶文档](http://www.appinn.com/markdown/)
 
 markdown文件后缀为.md，GitHub上常用于简介文档。可以在此测试使用。
+
 - sublime隐藏功能的学习 难度★★☆☆☆
 [学习资料](http://www.imooc.com/learn/40)
 
