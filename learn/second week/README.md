@@ -3,7 +3,7 @@
 
 统一使用此版本GitHub。
 
-![图片](4.2.1.png)
+![图片](img/4.2.1.png)
 [GitHub学习教程](http://www.imooc.com/learn/390)
 [GitHub简易学习文档](http://pan.baidu.com/s/1i53IQIp)
 
