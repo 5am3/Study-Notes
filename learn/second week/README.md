@@ -4,13 +4,17 @@
 统一使用此版本GitHub。
 
 ![图片](img/4.2.1.png)
+
 [GitHub学习教程](http://www.imooc.com/learn/390)
+
 [GitHub简易学习文档](http://pan.baidu.com/s/1i53IQIp)
 
 **2.初识CSS样式 难度★★☆☆☆**
+
 [HTML+CSS](http://www.imooc.com/learn/9)（6-15章）
 
 **3.简单样式制作 难度★★☆☆☆**
+
 [实验一：a标签的特殊样式](test1.md)
 
 [实验二：导航栏的制作](test2.md)
