@@ -1,8 +1,7 @@
 # 4.3-4.9任务
 **1.GitHub深入学习与了解 难度★★☆☆☆**
 
-统一使用此版本GitHub。
-
+统一使用此版本GitHub。（详细内容，见下方简易学习文档）
 ![图片](img/4.2.1.png)
 
 [GitHub学习教程](http://www.imooc.com/learn/390)
