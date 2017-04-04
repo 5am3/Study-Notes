@@ -1,0 +1,73 @@
+*{
+	margin: 0;
+}
+.nav{
+	background-color: #f7f7f7;
+
+	border-bottom: 1px solid ;
+}
+.top{
+	max-width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+ul{
+	display: inline-block;
+}
+.top ul{
+	list-style: none;
+	margin: 0;
+	font-size: 0px;
+}
+img{
+	display: inline-block;
+}
+ul li{
+	font-size: 18px;
+	display: inline-block;
+}
+a{
+	padding: 5px 10px;
+	line-height: 50px;
+	text-decoration: none;
+	display: inline-block;
+	height: inherit;
+	color:#000;
+
+}
+
+.daohang a:hover{
+	background-color: #dedede;
+	border-top: 3px solid #ff6e3d;
+}
+.checked{
+	background-color: #dedede;
+	border-top: 3px solid #ff6e3d;
+
+
+}
+.login{
+	float: right;
+}
+.search{
+	float: right;
+	height: inherit;
+	margin-top: 18px;
+	margin-right: 15px;
+}
+.logo{
+	float: left;
+	margin-right: 50px;
+}
+
+// .test{
+// 	margin-top: 100px;
+// 	text-decoration: none;//清楚格式。
+// 	color:#000;//设置默认颜色
+// 	display: inline-block;//设置为行内块状元素
+// 	padding:10px;//设置padding值为10px
+// }
+// .test:hover{
+// 	background-color: #dedede;//设置背景色变化
+// 	border-top: 3px solid #ff6e3d;//设置上方边框变化
+// }
