@@ -1,1 +1,1 @@
-# 不要着急，实验一在赶来的路上。。。
+# [实验一在这里](https://github.com/edu2act/course-web1/blob/master/Ch06%20HTML4.01%26HTML5/lab6/lab6.md)
