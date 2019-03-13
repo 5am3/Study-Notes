@@ -14,6 +14,6 @@
 
 | 项目  | 链接 |
 | ----- | ---- |
-| HTML  |      |
-| React |      |
+| HTML  |   https://github.com/5am3/Study-Notes/tree/master/HTML   |
+| React |  https://github.com/5am3/Study-Notes/tree/master/React   |
 
